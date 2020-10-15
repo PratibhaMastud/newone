@@ -1,0 +1,10 @@
+#! /bin/bash
+
+#adding
+c=(( 12+24 ))
+
+#multiplication
+
+#substraction
+
+#division
